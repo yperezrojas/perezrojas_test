@@ -7,6 +7,8 @@ Test repo for git and github lesson
 -   Create a remote repository on Github
 -   Practice Git workflow
 -   yay to conflicts
+-   Take over the world
+-   Go to Los Agaves
 
 ## Creator
 
