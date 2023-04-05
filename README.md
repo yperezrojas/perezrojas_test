@@ -15,3 +15,6 @@ Yulissa T. Perez Rojas is a fourth-year Ph.D. Candidate at the University of Cal
 
 These are Tasha's contributions. Thanks for letting me join this great project.
 
+## How to Create a Git Repository
+
+Go to GitHub website. You can make a repository on Git or on R Studio.
